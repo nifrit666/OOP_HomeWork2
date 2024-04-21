@@ -1,4 +1,4 @@
 public interface Swimble {
 
-    double swim();
+	double swim();
 }

@@ -1,3 +1,3 @@
 public interface Goable {
-    double run();
+	double run();
 }
